@@ -1,2 +1,3 @@
 Once upon a time, a robot and a wizard met in a coffee shop...
-They both got donuts instead of coffee and studied for their computer science exam
+They both got donuts instead of coffee and studied for their computer science exam and fell asleep instantly.
+
